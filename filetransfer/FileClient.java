@@ -56,7 +56,6 @@ public class FileClient {
         System.out.println("-----FILE END-----");
         System.out.println("\nFile saved to: "+savedFile);
     }
-    
     public static void main(String[] args) {
         new FileClient();
     }
